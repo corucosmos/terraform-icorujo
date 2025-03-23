@@ -2,7 +2,7 @@ terraform {
 	cloud { 	    
 	    organization = "terraform-test-1-icorujo" 
 	    workspaces { 
-	      name = "terraform-dev" 
+	      name = "terraform-icorujo" 
 	    } 
 	} 
 }
